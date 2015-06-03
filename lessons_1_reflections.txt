@@ -1,3 +1,5 @@
-Nothing 
+<<<<<<< HEAD
+Nothing to reflect 
 esto es lo qgregado
-to reflect 
+cambio en hithub
+>>>>>>> fd4e94901d20aee0d7c1bf02cb6447188153893e
